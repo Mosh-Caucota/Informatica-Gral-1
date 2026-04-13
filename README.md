@@ -1,1 +1,1 @@
-En esta ares se van a cargar las Practicas para la Cátedra de Informatica General 1- 
+Esta área está destinada a la carga y entrega de las actividades prácticas de la cátedra de Informática General. 1- 
